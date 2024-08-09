@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeansLand", "DeansLand\DeansLand.csproj", "{D7C0CCAA-E9FF-4DEB-9B10-47867473B76C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LandSetup", "LandSetup\LandSetup.vdproj", "{9F07F91D-4BB3-4215-BE20-85570435A2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C0CCAA-E9FF-4DEB-9B10-47867473B76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C0CCAA-E9FF-4DEB-9B10-47867473B76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C0CCAA-E9FF-4DEB-9B10-47867473B76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C0CCAA-E9FF-4DEB-9B10-47867473B76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F07F91D-4BB3-4215-BE20-85570435A2E2}.Debug|Any CPU.ActiveCfg = Debug
+		{9F07F91D-4BB3-4215-BE20-85570435A2E2}.Debug|Any CPU.Build.0 = Debug
+		{9F07F91D-4BB3-4215-BE20-85570435A2E2}.Release|Any CPU.ActiveCfg = Release
+		{9F07F91D-4BB3-4215-BE20-85570435A2E2}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65CDD4E-2022-4B01-928A-F076AFEA6F00}
+	EndGlobalSection
+EndGlobal
